@@ -86,11 +86,62 @@ Shwetank would be a fantastic addition to any engineering team. He brings not on
       title: "Software Developer",
       image: "https://img.heroui.chat/image/avatar?w=320&h=320&u=shwetank",
       description: [
-        "Hi, I’m Shwetank — a developer driven by curiosity, creativity, and clarity of thought. I believe great engineering begins with empathy — understanding how technology touches people’s lives and how elegant systems can make complex problems beautifully simple.",
-  "I’m currently pursuing my Master’s in Computer Science at California State University, Fullerton, and will be graduating in May 2026. Alongside my studies, I teach Compilers & Languages as a Teaching Associate, lead the Google Developer Group on campus, and work on projects that merge research, teaching, and real-world engineering.",
-  "Right now, I’m actively seeking Full-Time Software Developer roles in the United States — opportunities where I can design meaningful products, learn from exceptional teams, and continue building technology that connects ideas, systems, and people.",,
+        "Hi, I’m Shwetank — a developer driven by curiosity, creativity, and clarity of thought. I believe great engineering begins with empathy — understanding how technology touches people's lives and how elegant systems can make complex problems beautifully simple.",
+        "I recently graduated with a Master's in Computer Science from California State University, Fullerton. During my time there, I served as a Teaching Associate for Compilers & Languages, led the Google Developer Group on campus, and built projects spanning AI, distributed systems, and developer tools.", 
+        "I'm currently seeking full-time Software Engineer opportunities in the United States, where I can build thoughtful products, solve meaningful engineering challenges, and grow alongside exceptional teams."
       ],
     },
+
+        certifications: [
+      {
+        title: "AI Fluency Framework & Foundations",
+        issuer: "Anthropic",
+        date: "Jun 2026",
+        credentialUrl: "https://verify.skilljar.com/c/t53matvh5iox",
+      },
+      {
+        title: "Claude 101",
+        issuer: "Anthropic",
+        date: "Jun 2026",
+        credentialUrl: "https://verify.skilljar.com/c/5i7tk7uy4uer",
+      },
+      {
+        title: "Working as a Software Engineer at a Startup",
+        issuer: "Y Combinator",
+        date: "Jun 2026",
+        credentialUrl: "https://www.theforage.com/completion-certificates/3rjEZnibAFydi6noa/oRMogWRHeewqHzA7u_3rjEZnibAFydi6d_6a20dc7f90849691f83346a7_1780540476225_completion_certificate.pdf",
+      },
+      {
+        title: "Advanced Software Engineering Job Simulation",
+        issuer: "Walmart Global Tech",
+        date: "Jun 2026",
+        credentialUrl: "https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a20dc7f90849691f83346a7_1780539585941_completion_certificate.pdf",
+      },
+      {
+        title: "Introduction to Kubernetes",
+        issuer: "The Linux Foundation",
+        date: "Jun 2026",
+        credentialUrl: "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c004fd83-a1be-4681-af3e-0657feaaa784-shwetank-singh-bc5683a3-52e7-480e-943f-bf07855327cb-certificate.pdf",
+      },
+      {
+        title: "Google Cloud Data Analytics Professional Certificate",
+        issuer: "Google",
+        date: "Jun 2026",
+        credentialUrl: "https://www.credly.com/badges/d193ec3b-d642-40a4-8128-a26ce614390a/public_url",
+      },
+      {
+        title: "Fundamentals of Predictive Project Management",
+        issuer: "Project Management Institute",
+        date: "Jun 2026",
+        credentialUrl: "https://www.credly.com/badges/85cddea7-9222-4545-88c8-48aaa1b113d3/public_url",
+      },
+      {
+        title: "Fundamentals of Deep Learning",
+        issuer: "NVIDIA",
+        date: "2022",
+        credentialUrl: "https://learn.nvidia.com/certificates?id=c56747a2430b435c8414372876634a02",
+      },
+],
     education: [
       {
         title: "M.S. in Computer Science — California State University, Fullerton",
@@ -113,35 +164,35 @@ Shwetank would be a fantastic addition to any engineering team. He brings not on
         date: "Aug 2023 – Jul 2024 • Bhopal, India",
         icon: "mdi:briefcase",
         description:
-          "Built distributed tracing for Spring Boot & Flask microservices (Zipkin + Google Cloud Trace) covering 10+ request flows; shipped an Appsmith + TypeScript internal dashboard backed by MongoDB & SQL; reduced dev time/costs via proactive bug-fixing.",
+          "Designed and maintained backend services, REST APIs, and data pipelines for structured business workflows. Improved SQL query performance, strengthened data validation, resolved production issues through debugging and monitoring, and collaborated across teams to deliver scalable, reliable backend systems.",
       },
       {
         title: "Software Developer Intern — We Win Limited",
         date: "Jan 2023 – Jul 2023 • Bhopal, India",
         icon: "mdi:code-tags",
         description:
-          "Implemented 20+ CRUD APIs for dense datasets; optimized latency; partnered with clients and internal teams to triage and resolve issues.",
+          "Developed 20+ REST API endpoints, implemented request validation and data transformation logic, worked with relational databases, and built internal utilities for testing, debugging, and reliable backend processing.",
       },
       {
         title: "Software Developer Intern — Voldemort with a Nose LLP",
         date: "May 2022 – Jul 2022 • Hyderabad, India",
         icon: "mdi:filmstrip",
         description:
-          "Built an in-house video editor in Python/Tkinter; delivered feature demos to 500+ students and faculty.",
+          "Built Python-based workflow automation tools, designed reusable data transformation logic, improved processing reliability, and documented backend workflows to simplify maintenance and troubleshooting.",
       },
       {
         title: "Teaching Associate — California State University, Fullerton",
-        date: "Aug 2025 – Present • Fullerton, USA",
+        date: "Aug 2025 – Jan 2026 • Fullerton, USA",
         icon: "mdi:teach",
         description:
-          "Lecture support for Compilers & Languages; designed and delivered technical explanations and session materials.",
+          "Taught Compilers & Languages to undergraduate students, designed instructional material, simplified complex computer science concepts, and mentored students through assignments, projects, and technical discussions.",
       },
       {
         title: "GDG Organizer — Google Developer Group On Campus Fullerton",
-        date: "Aug 2025 – Present • Fullerton, USA",
+        date: "Aug 2025 – May 2026 • Fullerton, USA",
         icon: "mdi:account-group",
         description:
-          "Leading the Google Developer Group community at CSUF to foster collaboration and developer learning.",
+          "Led the Google Developer Group at CSUF by organizing technical events, fostering collaboration among student developers, and building an inclusive community around software engineering and emerging technologies.",
       },
     ],
     technologies: {
@@ -240,7 +291,7 @@ Shwetank would be a fantastic addition to any engineering team. He brings not on
   projects: {
     sectionTitle: "Featured Projects",
     sectionDescription:
-      "A few builds that reflect my interests.",
+      "A few builds that Projects I've enjoyed building—from AI-powered developer tools to distributed systems. my interests.",
     work: [
       {
         id: 1,
@@ -278,22 +329,25 @@ Shwetank would be a fantastic addition to any engineering team. He brings not on
       },
       {
         id: 3,
-        title: "Bangalore House Price Predictor",
+        title: "CodeGraph AI",
         description:
-          "End-to-end ML app that predicts house prices in Bengaluru using cleaned features and a trained regression model. Simple web UI for entering locality, area, and BHK.",
+          "AI-powered developer tool that transforms complex repositories into interactive knowledge graphs for faster code understanding.",
         image:
-          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=blr-house-price",
-        category: "Machine Learning",
+          "https://img.heroui.chat/image/dashboard?w=600&h=400&u=codegraph-ai",
+        category: "AI / ML",
         details:
-          "Built a data pipeline (cleaning, feature engineering, one-hot encoding) and trained a regression model (e.g., Linear/RandomForest). Exposed predictions via a lightweight web server with a clean UI.",
+          "Developed a code intelligence platform that parses repositories, builds dependency graphs, and visualizes relationships between files, classes, and functions. Designed to reduce onboarding time, simplify debugging, and improve developer productivity on large codebases",
         github:
-          "https://github.com/Shwetankkk/Bangalore-House-Price-Predictor-App-",
-        tech: [
+          "https://github.com/Shwetankkk/CodeGraph-AI",
+       tech: [
+          { name: "React", icon: "logos:react" },
+          { name: "Vite", icon: "logos:vitejs" },
+          { name: "Tailwind CSS", icon: "logos:tailwindcss-icon" },
+          { name: "React Flow", icon: "simple-icons:reactflow" },
           { name: "Python", icon: "logos:python" },
-          { name: "scikit-learn", icon: "simple-icons:scikitlearn" },
-          { name: "Pandas", icon: "simple-icons:pandas" },
-          { name: "NumPy", icon: "logos:numpy" },
-          { name: "Flask", icon: "simple-icons:flask" },
+          { name: "FastAPI", icon: "simple-icons:fastapi" },
+          { name: "AI Repository Parsing", icon: "mdi:brain" },
+          { name: "Dependency Analysis", icon: "mdi:graph" },
         ],
       },
     ],

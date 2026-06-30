@@ -1,3 +1,4 @@
+import type React from "react";
 export interface ProfileCardProps {
   image: string;
   name: string;
@@ -15,7 +16,7 @@ export interface SectionHeaderProps {
 export interface TimelineItemProps {
   title: string;
   date: string;
-  description: string;
+  description: React.ReactNode;
   variants?: any;
   delay?: number;
 }
@@ -25,6 +26,13 @@ export interface EducationItem {
   readonly date: string;
   readonly description: string;
   readonly icon?: string;
+}
+
+export interface CertificationItem {
+  readonly title: string;
+  readonly issuer: string;
+  readonly date: string;
+  readonly credentialUrl: string;
 }
 
 export interface ExperienceItem extends EducationItem {}
@@ -41,4 +49,6 @@ export interface TechCategory {
 
 export type EducationItems = readonly EducationItem[];
 export type ExperienceItems = readonly ExperienceItem[];
+export type CertificationItems = readonly CertificationItem[];
 export type TechCategories = Readonly<Record<string, TechCategory>>;
+
